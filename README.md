@@ -6,3 +6,5 @@ Seção técnica explicando TCP Connect Scan, threading e banner grabbing com di
 Tabela de portas conhecidas organizadas por categoria
 Tabela de performance para o usuário saber o que esperar
 Casos de uso legítimos para deixar claro o propósito da ferramenta
+
+---Esse código foi criado com auxilio de I.A---
